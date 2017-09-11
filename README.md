@@ -20,11 +20,13 @@ Step 3 :-
 Open application.properties file.
 Configure it as per your requirements i.e. giving values to the following properties:
 
-Step 4 :-
 spring.datasource.url=
+
 spring.datasource.username=
+
 spring.datasource.password=
-spring.jpa.properties.hibernate.dialect = 
+
+spring.jpa.properties.hibernate.dialect= 
 
 Use 'spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect' for MYSQL version lower than 5.7.
 
