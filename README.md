@@ -30,7 +30,7 @@ spring.jpa.properties.hibernate.dialect=
 
 Use 'spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect' for MYSQL version lower than 5.7.
 
-Step 5 :-
+Step 4 :-
 Open Application.java file and run it as Java Application
 The console will start showing various logs. 
 When 'Application started' log appears in the console, then open your browser (preferably Google Chrome).
